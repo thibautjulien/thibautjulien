@@ -30,9 +30,12 @@ Application mobile de gestion d’interventions terrain
 ## 🛠️ Stack technique
 
 ### 💻 Frontend
+- HTML 5 & CSS 3
+- JavaScript
 - React
 - TypeScript
 - Vite
+- Bootstrap
 - TailwindCSS
 
 ### 📱 Mobile
@@ -41,14 +44,17 @@ Application mobile de gestion d’interventions terrain
 
 ### ⚙️ Backend
 - Node.js
+- HTTP Client (Axios)
 - Express
 - TypeScript
-- SQLite / PostgreSQL
+- SQL (SQLite / PostgreSQL)
 
 ### 🤖 Autres
+- Git
+- Docker
 - Discord.js
-- REST API
-- JWT Auth
+- REST API Design
+- Authentification (JWT)
 
 ---
 
