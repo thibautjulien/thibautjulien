@@ -69,14 +69,6 @@ Application mobile de gestion d’interventions terrain
 
 ---
 
-## 📊 Stats GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=thibautjulien&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibautjulien&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Me contacter
 
 - 🌍 Site : https://thibautjulien.be
