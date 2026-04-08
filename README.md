@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hey, moi c'est Thibaut
 
-<!--
-**thibautjulien/thibautjulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur Web & Mobile  
+🚀 Passionné par la création d’applications modernes & performantes  
+📍 Belgique  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 À propos de moi
+
+- 🎯 Je développe des apps complètes (frontend + backend + mobile)
+- ⚙️ J’aime comprendre les systèmes en profondeur
+- 🧩 Je construis des bots Discord, APIs et dashboards
+
+---
+
+## 🚀 Projets principaux
+
+### 📱 FieldOps
+Application mobile de gestion d’interventions terrain
+
+- React Native + Expo
+- API Express + SQLite
+- Photos
+
+👉 [Voir le projet](https://github.com/thibautjulien/FieldOps)
+
+---
+
+## 🛠️ Stack technique
+
+### 💻 Frontend
+- React
+- TypeScript
+- Vite
+- TailwindCSS
+
+### 📱 Mobile
+- React Native (Expo)
+- TypeScript
+
+### ⚙️ Backend
+- Node.js
+- Express
+- TypeScript
+- SQLite / PostgreSQL
+
+### 🤖 Autres
+- Discord.js
+- REST API
+- JWT Auth
+
+---
+
+## 🔥 Compétences
+
+- Architecture d’applications
+- Création d’API REST
+- UX/UI & logique produit
+- Bots Discord avancés
+- Déploiement (VPS / Nginx)
+- Web Designer (Infographiste)
+
+---
+
+## 📊 Stats GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=thibautjulien&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibautjulien&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Me contacter
+
+- 🌍 Site : https://thibautjulien.be
+- 📧 Email : thbtjulien21@gmail.com
+
+---
