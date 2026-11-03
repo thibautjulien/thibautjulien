@@ -8,22 +8,9 @@
 
 ## 🧠 À propos de moi
 
-- 🎯 Je développe des apps complètes (frontend + backend + mobile)
+- 🎯 Je développe des apps complètes (frontend + backend)
 - ⚙️ J’aime comprendre les systèmes en profondeur
 - 🧩 Je construis des bots Discord, APIs et dashboards
-
----
-
-## 🚀 Projets principaux
-
-### 📱 FieldOps
-Application mobile de gestion d’interventions terrain
-
-- React Native + Expo
-- API Express + SQLite
-- Photos
-
-👉 [Voir le projet](https://github.com/thibautjulien/FieldOps)
 
 ---
 
@@ -32,11 +19,8 @@ Application mobile de gestion d’interventions terrain
 ## 💻 Frontend
 HTML5 • CSS3 • JavaScript • TypeScript • React • Vite • TailwindCSS • Bootstrap
 
-## 📱 Mobile
-React Native (Expo)
-
 ## 🖥️ Backend
-Node.js • Express • REST API • JWT
+Java • Node.js • Express • REST API • JWT
 
 ## 🗄️ Database
 SQLite • PostgreSQL
